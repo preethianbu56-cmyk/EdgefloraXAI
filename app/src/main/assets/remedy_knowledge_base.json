@@ -1,0 +1,375 @@
+{
+  "metadata": {
+    "project": "EdgeFloraXAI",
+    "version": "v1",
+    "purpose": "Verified flower disease remedy recommendation",
+    "status": "partially_curated",
+    "note": "Only entries with documented sources are included.",
+    "verified_entry_count": 12
+  },
+  "recommendations": [
+    {
+      "disease": "Anthracnose",
+      "flower": "Rose",
+      "severity_band": "Low-Moderate-High-Severe",
+      "immediate_actions": [
+        "Remove and discard visibly infected leaves and plant parts.",
+        "Remove fallen infected plant debris around the plant.",
+        "Avoid wetting foliage during irrigation."
+      ],
+      "cultural_control": [
+        "Maintain good sanitation.",
+        "Improve air circulation around the plant.",
+        "Keep foliage as dry as practical."
+      ],
+      "biological_control": [],
+      "chemical_control": [
+        "Use a fungicide only when the product is registered/labeled for the crop and disease.",
+        "Follow the local product label for dose, interval, protective equipment and harvest/re-entry restrictions."
+      ],
+      "prevention": [
+        "Inspect plants regularly for new leaf spots.",
+        "Remove infected debris promptly."
+      ],
+      "safety_notes": [
+        "Do not recommend a pesticide solely from this diagnosis.",
+        "Product registration and permitted crops vary by country and location."
+      ],
+      "source_title": "Rose Diseases (Outdoors)",
+      "source_organization": "Penn State Extension",
+      "source_url": "https://extension.psu.edu/rose-diseases-outdoors"
+    },
+    {
+      "disease": "Blackspot",
+      "flower": "Rose",
+      "severity_band": "Low-Moderate-High-Severe",
+      "immediate_actions": [
+        "Remove infected leaves and infected canes where practical.",
+        "Collect and remove fallen infected leaves.",
+        "Water at the soil rather than wetting the foliage."
+      ],
+      "cultural_control": [
+        "Maintain good sanitation.",
+        "Improve airflow through the plant.",
+        "Keep foliage dry when watering."
+      ],
+      "biological_control": [],
+      "chemical_control": [
+        "A labeled fungicide may be used to protect new foliage when appropriate.",
+        "Follow the local product label exactly."
+      ],
+      "prevention": [
+        "Inspect new foliage regularly.",
+        "Remove fallen infected leaves promptly."
+      ],
+      "safety_notes": [
+        "Pesticide products must be registered/labeled for the intended crop and disease.",
+        "Follow all label and personal-protection requirements."
+      ],
+      "source_title": "Rose Diseases (Outdoors)",
+      "source_organization": "Penn State Extension",
+      "source_url": "https://extension.psu.edu/rose-diseases-outdoors"
+    },
+    {
+      "disease": "PowderyMildew",
+      "flower": "Rose",
+      "severity_band": "Low-Moderate-High-Severe",
+      "immediate_actions": [
+        "Remove severely infected leaves or shoots where practical.",
+        "Improve air circulation around the plant.",
+        "Avoid excessive nitrogen fertilization unless a soil test indicates a need."
+      ],
+      "cultural_control": [
+        "Prune appropriately to improve light penetration and airflow.",
+        "Scout plants regularly.",
+        "Avoid practices that encourage excessive lush new growth."
+      ],
+      "biological_control": [],
+      "chemical_control": [
+        "Fungicides can protect healthy tissue when applied early.",
+        "Possible active ingredients include sulfur or potassium bicarbonate where legally labeled for the crop and disease.",
+        "Follow the product label for application interval and safety requirements."
+      ],
+      "prevention": [
+        "Monitor susceptible plants regularly.",
+        "Begin appropriate protection when symptoms first appear rather than waiting for severe infection."
+      ],
+      "safety_notes": [
+        "Fungicides generally protect healthy tissue rather than curing established infection.",
+        "Always follow the pesticide label and verify that the product is permitted for the crop."
+      ],
+      "source_title": "Powdery mildew on trees and shrubs",
+      "source_organization": "University of Minnesota Extension",
+      "source_url": "https://extension.umn.edu/garden-and-home/yard-and-garden/gardening-in-minnesota/yard-and-garden-problems/powdery-mildew-on-trees-and-shrubs"
+    },
+    {
+      "disease": "Gray_mold",
+      "flower": "General flowering plants",
+      "severity_band": "Low-Moderate-High-Severe",
+      "immediate_actions": [
+        "Remove infected flowers, leaves and stems.",
+        "Dispose of infected plant material appropriately.",
+        "Avoid overhead watering."
+      ],
+      "cultural_control": [
+        "Improve air circulation by appropriate spacing.",
+        "Keep foliage and flowers as dry as practical.",
+        "Avoid wounding plants during handling and pruning."
+      ],
+      "biological_control": [],
+      "chemical_control": [
+        "For garden flowers, cultural control is often sufficient.",
+        "If a fungicide is considered, use only a product labeled for the specific crop and disease."
+      ],
+      "prevention": [
+        "Reduce prolonged wetness and high humidity around foliage.",
+        "Remove old or wounded plant tissue promptly."
+      ],
+      "safety_notes": [
+        "Follow local pesticide labels and safety requirements.",
+        "Do not apply an agricultural chemical solely because the model predicts gray mold."
+      ],
+      "source_title": "Gray mold in the flower garden",
+      "source_organization": "University of Minnesota Extension",
+      "source_url": "https://extension.umn.edu/garden-and-home/yard-and-garden/gardening-in-minnesota/yard-and-garden-problems/gray-mold-in-the-flower-garden"
+    },
+    {
+      "disease": "Bacterial_leaf",
+      "flower": "Chrysanthemum",
+      "severity_band": "Low-Moderate-High-Severe",
+      "immediate_actions": [
+        "Remove and discard severely infected leaves or plants.",
+        "Avoid overhead irrigation and leaf wetting.",
+        "Disinfect tools after working with infected plants."
+      ],
+      "cultural_control": [
+        "Use disease-free planting material.",
+        "Keep foliage dry.",
+        "Avoid splashing water from soil or debris onto foliage."
+      ],
+      "biological_control": [],
+      "chemical_control": [
+        "Do not automatically prescribe an antibiotic or bactericide.",
+        "Use only a product specifically registered and labeled for the crop and bacterial disease in the farmer's location."
+      ],
+      "prevention": [
+        "Use healthy cuttings.",
+        "Maintain sanitation of tools, benches and growing areas."
+      ],
+      "safety_notes": [
+        "Bacterial leaf symptoms can resemble other leaf-spot diseases.",
+        "Confirm the diagnosis before chemical treatment."
+      ],
+      "source_title": "Chrysanthemum Diseases",
+      "source_organization": "Penn State Extension",
+      "source_url": "https://extension.psu.edu/chrysanthemum-diseases"
+    },
+    {
+      "disease": "Bacterial_leaf",
+      "flower": "General flowering plants",
+      "severity_band": "Low-Moderate-High-Severe",
+      "immediate_actions": [
+        "Remove severely infected plant material.",
+        "Avoid overhead irrigation.",
+        "Clean and disinfect tools and containers."
+      ],
+      "cultural_control": [
+        "Use pathogen-free planting material.",
+        "Keep foliage dry.",
+        "Separate handling of infected debris from healthy plants."
+      ],
+      "biological_control": [],
+      "chemical_control": [
+        "Use a bactericide only if it is specifically labeled for the diagnosed crop and disease.",
+        "Follow the local product label."
+      ],
+      "prevention": [
+        "Maintain strict sanitation.",
+        "Avoid moving contaminated soil or debris onto healthy foliage."
+      ],
+      "safety_notes": [
+        "Several bacterial pathogens can cause visually similar spots, blights and wilts."
+      ],
+      "source_title": "Bacterial Diseases Of Ornamentals",
+      "source_organization": "Penn State Extension",
+      "source_url": "https://extension.psu.edu/bacterial-diseases-of-ornamentals"
+    },
+    {
+      "disease": "Septoria_leaf",
+      "flower": "Chrysanthemum",
+      "severity_band": "Low-Moderate-High-Severe",
+      "immediate_actions": [
+        "Remove and destroy affected leaves and disease debris.",
+        "Avoid excessive irrigation and prolonged leaf wetness."
+      ],
+      "cultural_control": [
+        "Reduce leaf wetness.",
+        "Avoid practices that splash water from infected debris onto foliage.",
+        "Maintain good sanitation."
+      ],
+      "biological_control": [],
+      "chemical_control": [
+        "If chemical control is required, use only a fungicide labeled for chrysanthemum and Septoria/leaf spot in the local jurisdiction."
+      ],
+      "prevention": [
+        "Remove infected debris promptly.",
+        "Monitor plants during cool and wet periods."
+      ],
+      "safety_notes": [
+        "Chemical treatment should follow local registration and label requirements."
+      ],
+      "source_title": "Chrysanthemum Septoria Leaf Spot",
+      "source_organization": "Tamil Nadu Agricultural University",
+      "source_url": "https://agritech.tnau.ac.in/crop_protection/chrysanthemum_3.html"
+    },
+    {
+      "disease": "Soft",
+      "flower": "General flowering plants",
+      "severity_band": "Low-Moderate-High-Severe",
+      "immediate_actions": [
+        "Remove and discard rotting plant tissue.",
+        "Separate severely affected plants from healthy plants where practical.",
+        "Reduce excess moisture around the plant."
+      ],
+      "cultural_control": [
+        "Avoid overwatering.",
+        "Avoid injuries to stems and roots.",
+        "Maintain clean growing areas and equipment."
+      ],
+      "biological_control": [],
+      "chemical_control": [
+        "Do not automatically recommend a pesticide.",
+        "Treatment depends on the organism causing the rot and should be confirmed before chemical use."
+      ],
+      "prevention": [
+        "Use clean planting material.",
+        "Maintain good sanitation and drainage."
+      ],
+      "safety_notes": [
+        "Soft rot symptoms can have different causes, including bacterial and fungal organisms.",
+        "Diagnosis should be confirmed before selecting a chemical treatment."
+      ],
+      "source_title": "Bacterial Diseases Of Ornamentals",
+      "source_organization": "Penn State Extension",
+      "source_url": "https://extension.psu.edu/bacterial-diseases-of-ornamentals"
+    },
+    {
+      "disease": "Wilted",
+      "flower": "Chrysanthemum",
+      "severity_band": "Low-Moderate-High-Severe",
+      "immediate_actions": [
+        "Remove and destroy severely wilted infected plants.",
+        "Inspect nearby plants for similar symptoms.",
+        "Use disease-free planting material."
+      ],
+      "cultural_control": [
+        "Maintain strict sanitation.",
+        "Use crop rotation where practical.",
+        "Monitor planting material before propagation."
+      ],
+      "biological_control": [
+        "TNAU reports use of Pseudomonas fluorescens with rooted chrysanthemum cuttings as part of wilt management."
+      ],
+      "chemical_control": [
+        "Do not automatically recommend a fungicide solely from the image diagnosis.",
+        "Confirm the causal organism and follow the locally registered product label."
+      ],
+      "prevention": [
+        "Use healthy cuttings.",
+        "Rogue infected plants promptly.",
+        "Avoid carrying infected plant material between growing areas."
+      ],
+      "safety_notes": [
+        "Wilt can have fungal, bacterial or physiological causes."
+      ],
+      "source_title": "Chrysanthemum Wilt",
+      "source_organization": "Tamil Nadu Agricultural University",
+      "source_url": "https://agritech.tnau.ac.in/crop_protection/chrysanthemum_1.html"
+    },
+    {
+      "disease": "Chlorosis",
+      "flower": "General flowering plants",
+      "severity_band": "Low-Moderate-High-Severe",
+      "immediate_actions": [
+        "Check irrigation, drainage and recent environmental stress.",
+        "Inspect leaves for the pattern of yellowing.",
+        "Consider soil or leaf testing before applying nutrients."
+      ],
+      "cultural_control": [
+        "Avoid prolonged waterlogging.",
+        "Correct documented nutrient or soil-pH problems rather than applying nutrients blindly.",
+        "Reduce avoidable plant stress."
+      ],
+      "biological_control": [],
+      "chemical_control": [],
+      "prevention": [
+        "Maintain appropriate irrigation and drainage.",
+        "Use soil or plant testing when nutrient deficiency is suspected."
+      ],
+      "safety_notes": [
+        "Chlorosis is a symptom, not necessarily a single disease.",
+        "The model should not automatically prescribe iron or another nutrient without evidence of deficiency."
+      ],
+      "source_title": "Managing iron deficiency chlorosis",
+      "source_organization": "University of Minnesota Extension",
+      "source_url": "https://extension.umn.edu/agriculture/crop-production/nutrient-management-for-minnesota-crops/managing-iron-deficiency-chlorosis-in-soybean"
+    },
+    {
+      "disease": "blight",
+      "flower": "General flowering plants",
+      "severity_band": "Low-Moderate-High-Severe",
+      "immediate_actions": [
+        "Remove severely affected leaves, flowers or stems where practical.",
+        "Remove diseased debris from around plants.",
+        "Avoid prolonged leaf wetness."
+      ],
+      "cultural_control": [
+        "Improve air circulation.",
+        "Avoid overhead irrigation where possible.",
+        "Maintain sanitation."
+      ],
+      "biological_control": [],
+      "chemical_control": [
+        "Use a fungicide or bactericide only after confirming the likely cause and checking the local product label."
+      ],
+      "prevention": [
+        "Scout plants regularly.",
+        "Remove infected tissue promptly."
+      ],
+      "safety_notes": [
+        "Blight is a broad symptom category and can be caused by different pathogens."
+      ],
+      "source_title": "Bacterial Diseases Of Ornamentals",
+      "source_organization": "Penn State Extension",
+      "source_url": "https://extension.psu.edu/bacterial-diseases-of-ornamentals"
+    },
+    {
+      "disease": "scorch",
+      "flower": "General flowering plants",
+      "severity_band": "Low-Moderate-High-Severe",
+      "immediate_actions": [
+        "Check soil moisture and irrigation.",
+        "Check for recent heat, strong sunlight or hot dry wind.",
+        "Inspect affected leaves for signs of pests or disease."
+      ],
+      "cultural_control": [
+        "Maintain adequate root-zone moisture without overwatering.",
+        "Reduce exposure to extreme heat where practical.",
+        "Avoid unnecessary plant stress."
+      ],
+      "biological_control": [],
+      "chemical_control": [],
+      "prevention": [
+        "Monitor plants during periods of high temperature and dry wind.",
+        "Maintain appropriate irrigation and growing conditions."
+      ],
+      "safety_notes": [
+        "Leaf scorch can be caused by environmental stress and is not automatically an infectious disease.",
+        "Do not recommend pesticides solely from a scorch prediction."
+      ],
+      "source_title": "Keep gardens thriving through the heat",
+      "source_organization": "University of Minnesota Extension",
+      "source_url": "https://extension.umn.edu/about/our-stories/news/yard-and-garden-news/keep-gardens-thriving-through-heat"
+    }
+  ]
+}
